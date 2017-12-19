@@ -9,7 +9,7 @@
     border-radius:122px;
 
   margin:22px 20px 22px 20px;
-background:#210ddb;
+background:#c60303;
 }
 #cnmudmenu,#drop{
     list-style:none;
@@ -30,7 +30,7 @@ background:#210ddb;
 }
 #cnmudmenu li a:hover {
     background:#fff;
-    color:#210ddb;
+    color:#c60303;
     transition:all .0s ease 0s;
 }
 #drop {
@@ -43,7 +43,7 @@ z-index:100;
     float:none;
 }
 #drop li a {
-background:#210ddb;
+background:#c60303;
 border-bottom:1px solid #bbb;
 padding:5px 10px;
 width:150px;
